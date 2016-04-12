@@ -1,0 +1,1016 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!--
+================================= COPYRIGHT NOTICE =================================
+	Copyright (C) 2001-2010 eSchool Solutions, Inc.
+
+	This source code software is the property of eSchool Solutions, Inc.
+	Possession, use, replication, sale, distribution or the performance
+	of any other acts involving this software without a license explicitly
+	granted by eSchool Solutions, Inc. is illegal.
+====================================================================================
+-->
+
+<!-- SmartFindExpress Version 2.5.0.10542 -->
+     
+
+
+
+
+
+
+
+
+
+
+
+<html lang="en-US">
+<head>
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Cache-Control" content="no-cache">
+
+  	
+		
+		
+	
+		
+		
+		
+	
+		<title>
+			eSchool Solutions&nbsp;&nbsp;&nbsp;SmartFindExpress&nbsp;-&nbsp;
+			
+			
+				
+				
+			
+			Available Jobs
+		</title>
+		
+    
+	    <link rel="stylesheet" type="text/css" href="css/main.css" />
+
+    
+	    <script type="text/javascript" src="js/yahoo-dom-event.js"></script>
+	    
+    
+	    <script type="text/javascript" src="js/element-min.js"></script>
+	    <script type="text/javascript" src="js/button-min.js"></script>
+	    <script type="text/javascript" src="js/datasource-min.js"></script>
+	    <script type="text/javascript" src="js/autocomplete-min.js"></script>
+
+    
+	    <script type="text/javascript" src="js/autocomplete_location-min.js"></script>
+
+    
+	    <script type="text/javascript" src="js/main-min.js"></script>
+	    
+	
+		<script type="text/javascript" src="js/container_core-min.js"></script>
+		<script type="text/javascript" src="js/menu-min.js"></script>
+		
+	
+		<script type="text/javascript" src="js/simpleDropDownMenu.js"></script>
+		
+	
+		<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+		
+	
+		<script type="text/javascript" src="js/jquery.timeentry.pack.js"></script>
+		
+		<script type="text/javascript">
+			$( function () {
+				$( '.timeEntry' ).timeEntry({
+					ampmPrefix: ' ',
+					spinnerImage: ''
+				});
+			});
+		</script>
+
+	
+		<script type="text/javascript" src="js/jquery.blockUI.min.js"></script>
+	
+	
+		<script type="text/javascript" src="js/jquery.cookie.min.js"></script>
+
+</head>
+<body style="background-image:url('IMAGES/backgroundGradient.jpg');">
+	<table class="pageContainer" align="center" border="0" cellspacing="0" cellpadding="0">
+		
+		<tr valign="top" align="left">
+			<td style="height:80px;">
+
+
+
+
+
+
+
+
+<script language="JavaScript1.2" type="text/javascript" src="common/browserDetect.js"></script>
+<script type="text/javascript" src="js/modalBox.js"></script>
+<script type="text/javascript" src="js/newwin.js"></script>
+<link rel="stylesheet" type="text/css" href="css/modalBox.css">
+
+
+
+<script language="JavaScript1.2" type="text/javascript">
+	checkBrowser();
+	
+	var newWindow = false;
+  	function checkNewWindow( fname )
+  	{
+  		if ( newWindow )
+  		{
+  			fname.target = '_blank';
+  		}
+  		else
+  		{
+  			fname.target = '_self';
+		}
+  		newWindow = false;
+  	}
+
+  	var submitcount = 0;
+  	function stopDblSubmit()
+  	{
+  		if ( submitcount == 0 )
+  		{
+  			//	Submit form
+  			submitcount++;
+  			return true;
+  		}
+  		else
+  		{
+  			return false;
+  		}
+	}
+ 	</script>
+
+
+<script language="JavaScript1.2" type="text/javascript" src="common/webcenter.js"></script>
+<script language="JavaScript1.2" type="text/javascript" src="common/multifile.js"></script>
+
+
+
+<div id="sidious.personRole" class="sidious" data-sidious="3" ></div> 
+
+<div style="height:0px;"><img src="IMAGES/shim.png" height="0px" width="750px"/></div>
+<table border="0" height="80px" cellspacing="0" cellpadding="0" align="left" width="100%">
+	<tr>
+		<td class="base" valign="middle" align="left" rowspan="2">
+				<a href="http://www.eschoolsolutions.com" target="_blank">
+				<img src="IMAGES/eSchool_logo_header.jpg" border="0" align="middle" />
+			</a>
+		</td>
+		
+		<td class="base" valign="middle" align="left" rowspan="2">
+			
+					<a href="http://www.tdsb.on.ca/" target="_blank">
+						<img src="customimage?id=1" border="0" align="middle" height="70px"/>
+					</a>
+				
+		</td>
+		
+		
+		
+		<td class="base" align="right" valign="middle">
+			<script type="text/javascript">
+				YAHOO.util.Event.onContentReady("headermenu", function () {
+					/*
+						Instantiate a MenuBar:  The first argument passed to the constructor
+						is the id for the Menu element to be created, the second is an 
+						object literal of configuration properties.
+					*/
+					var oMenuBar = new YAHOO.widget.MenuBar("headermenu", { 
+						autosubmenudisplay: true, 
+						hidedelay: 750, 
+						lazyload: true });
+					oMenuBar.render();
+				});
+			</script>
+			<div class="yui-skin-sam">
+				<div id="headermenu" class="yuimenubar yuimenubarnav">
+					<div class="bd">
+						<ul class="first-of-type">
+						
+							
+							
+
+
+
+
+		
+<li class="yuimenubaritem first-of-type">
+	<a href="#" id="sidious.menu.title.Profile" class="yuimenubaritemlabel noLine">Profile</a>
+
+	<div id="Profile" class="yuimenu"><div class="bd"><ul class="first-of-type">
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="profileModifyInitAction.do" id="sidious.prompt.header.information" class="yuimenuitemlabel noLine">Information</a>
+</li>
+
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="emailModifyInitAction.do" id="sidious.prompt.header.updateEmail" class="yuimenuitemlabel noLine">Update Email</a>
+</li>
+
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="passwordModifyInitAction.do" id="sidious.prompt.all.changePassword" class="yuimenuitemlabel noLine">Change Password</a>
+</li>
+
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="substituteModifyInitAction.do" id="sidious.prompt.profileMain.callBackNum" class="yuimenuitemlabel noLine">Callback Number</a>
+</li>
+
+	
+	</ul></div></div>
+</li>
+
+						
+							
+							
+
+
+
+
+		
+<li class="yuimenubaritem first-of-type">
+	<a href="#" id="sidious.prompt.header.help" class="yuimenubaritemlabel noLine">Help</a>
+
+	<div id="Help" class="yuimenu"><div class="bd"><ul class="first-of-type">
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="javascript:showPopDocument('https://video.eschoolsolutions.com/udocs/TDSBQR-UnitCTempEmpIVR.pdf ',705,505,null);" id="sidious.Unit C Temporary Employee Telephone" class="yuimenuitemlabel noLine">Unit C Temporary Employee Telephone</a>
+</li>
+
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="javascript:showPopDocument('https://video.eschoolsolutions.com/udocs/TDSBQR-UnitCTempEmpWEB.pdf',705,505,null);" id="sidious.Unit C Temporary Employee Browser" class="yuimenuitemlabel noLine">Unit C Temporary Employee Browser</a>
+</li>
+
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="javascript:showPopDocument('https://video.eschoolsolutions.com/udocs/TDSBOTbi-foldWebQRC.pdf ',705,505,null);" id="sidious.TDSB Occasional Teacher bi-fold Web Browser QRC" class="yuimenuitemlabel noLine">TDSB Occasional Teacher bi-fold Web Browser QRC</a>
+</li>
+
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="javascript:showPopDocument('https://video.eschoolsolutions.com/udocs/TDSBQR-CYWSTCWEB.pdf ',705,505,null);" id="sidious.CYW STC Browser (Unit A)" class="yuimenuitemlabel noLine">CYW STC Browser (Unit A)</a>
+</li>
+
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="javascript:showPopDocument('https://video.eschoolsolutions.com/udocs/TDSBOTbi-foldIVRQRC.pdf ',705,505,null);" id="sidious.TDSB Occasional Teacher bi-fold Telephone QRC" class="yuimenuitemlabel noLine">TDSB Occasional Teacher bi-fold Telephone QRC</a>
+</li>
+
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="javascript:showPopDocument('https://video.eschoolsolutions.com/udocs/TDSBQR-CYWSTCIVR.pdf ',705,505,null);" id="sidious.CYW STC Telephone (Unit A)" class="yuimenuitemlabel noLine">CYW STC Telephone (Unit A)</a>
+</li>
+
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="javascript:showPopDocument('https://video.eschoolsolutions.com/udocs/TDSBSupplyInstructorIVRFeb2012.pdf',705,505,null);" id="sidious.Supply Instructor Telephone (Unit B)" class="yuimenuitemlabel noLine">Supply Instructor Telephone (Unit B)</a>
+</li>
+
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="javascript:showPopDocument('https://video.eschoolsolutions.com/udocs/TDSBSupplyInstructorWEBFeb2012.pdf',705,505,null);" id="sidious.Supply Instructor Browser (Unit B)" class="yuimenuitemlabel noLine">Supply Instructor Browser (Unit B)</a>
+</li>
+
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="javascript:showPopDocument('https://video.eschoolsolutions.com/udocs/TDSB_Occasional_Teachers_Handbook_2014-2015.pdf ',705,505,null);" id="sidious.Occasional Teachers' Handbook 2014-2015" class="yuimenuitemlabel noLine">Occasional Teachers' Handbook 2014-2015</a>
+</li>
+
+	
+	</ul></div></div>
+</li>
+
+						
+							
+							
+
+
+
+
+		
+<li class="yuimenubaritem first-of-type">
+	<a href="logOff.jsp" id="sidious.prompt.header.signOut" class="yuimenubaritemlabel noLine">Sign Out</a>
+</li>
+
+						
+						</ul>
+					</div>
+				</div>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="base" valign="bottom" align="right">
+		
+	 	</td>
+		
+	</tr>
+</table>
+</td>
+		</tr>
+		
+		<tr valign="top" align="left">
+			<td style="height:24px;">
+<script type="text/javascript">
+	YAHOO.util.Event.onContentReady("menubar", function () {
+		/*
+			Instantiate a MenuBar:  The first argument passed to the constructor
+			is the id for the Menu element to be created, the second is an 
+			object literal of configuration properties.
+		*/
+		var oMenuBar = new YAHOO.widget.MenuBar("menubar", { 
+			autosubmenudisplay: true, 
+			hidedelay: 750, 
+			lazyload: true });
+		oMenuBar.render();
+	});
+</script>
+<div class="yui-skin-sam">
+	<div id="menubar" class="yuimenubar yuimenubarnav">
+		<div class="bd">
+			<ul class="first-of-type">
+			
+				
+				
+
+
+
+
+		
+<li class="yuimenubaritem first-of-type">
+	<a href="homeAction.do" id="sidious.menu.title.Home" class="yuimenubaritemlabel noLine">Home</a>
+</li>
+
+			
+				
+				
+
+
+
+
+		
+<li class="yuimenubaritem first-of-type">
+	<a href="#" id="sidious.menu.title.Schedule" class="yuimenubaritemlabel noLine">Schedule</a>
+
+	<div id="Scheduling" class="yuimenu"><div class="bd"><ul class="first-of-type">
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="substituteDailyAvailInitAction.do" id="sidious.menu.title.General" class="yuimenuitemlabel noLine">General</a>
+</li>
+
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="substituteModifyInitAction.do" id="sidious.prompt.subProfileDailyAvailability.temporaryDNC" class="yuimenuitemlabel noLine">Temporary Do Not Call</a>
+</li>
+
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="substituteClassfInitAction.do" id="sidious.menu.title.Classifications" class="yuimenuitemlabel noLine">Classifications</a>
+</li>
+
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="substituteLocInitAction.do" id="sidious.menu.title.Locations" class="yuimenuitemlabel noLine">Locations</a>
+</li>
+
+	
+		
+
+
+
+
+			
+<li class="yuimenuitem"><a href="substituteUnavailInitAction.do" id="sidious.menu.title.UnavailDates" class="yuimenuitemlabel noLine">Unavail Dates</a>
+</li>
+
+	
+	</ul></div></div>
+</li>
+
+			
+				
+				
+
+
+
+
+		
+<li class="yuimenubaritem first-of-type">
+	<a href="substituteAvailableJobInitAction.do" id="sidious.menu.title.AvailableJobs" class="yuimenubaritemlabel noLine">Available Jobs</a>
+</li>
+
+			
+				
+				
+
+
+
+
+		
+<li class="yuimenubaritem first-of-type">
+	<a href="substituteCalendarInitAction.do" id="sidious.menu.title.ReviewAssignments" class="yuimenubaritemlabel noLine">Review Assignments</a>
+</li>
+
+			
+			</ul>
+		</div>
+	</div>
+</div>
+</td>
+		</tr>			
+		
+		<tr valign="top" align="left">
+			
+			<!--[if IE 6]>
+			<td style="height:100%">
+			<![endif]-->
+			<![if (gt IE 6)|(!IE)]>
+			<td style="height:expression(document.body.clientHeight - 202);">
+			<![endif]>
+				<table class="contentBorder" border="0" cellspacing="0" cellpadding="0">
+					<tr width="100%" valign="top" align="left">
+						<td class="contentBorder">
+							
+							
+								
+								
+							
+							Available Jobs
+						</td>
+					</tr>
+					<tr width="100%" valign="top" align="center">
+						<td>
+							<font class="error" id="sidious.error"></font>
+						</td>
+					</tr>
+					<tr width="100%" valign="top" align="left">
+						<td>
+
+</td>
+					</tr>
+					<tr height="100%" width="100%" valign="top" align="left">
+						<td><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" 
+	"http://www.w3.org/TR/html4/strict.dtd"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Dependency for event-min.js -->
+<script type="text/javascript" src="js/yahoo-min.js"></script>
+ 
+<!-- Event source file - for onDOMReady function used on this page -->
+<script type="text/javascript" src="js/event-min.js"></script>
+
+<html> 
+<script language="JavaScript1.2" type="text/javascript">
+
+	function disableButton( buttonName, clicked, debug )
+	{
+		if ( document.getElementById( buttonName ) != null )
+		{
+			if ( false == false )
+			{
+				document.getElementById( buttonName ).disabled = true;
+			}
+	
+			if ( clicked == true )
+			{
+				var el = document.createElement( "input" );
+				el.type = "hidden";
+				el.name = buttonName;
+				el.value = buttonName;
+				document.forms[0].appendChild( el );
+			}
+		}		
+	}	
+
+	function disableSearch()
+	{
+		disableButton( "searchPrev", false );
+		disableButton( "searchNext", false );
+		disableButton( "5d8c3d07-b380-4f50-aae8-c5098ae5dbca", true );
+	}
+
+	function disablePrev()
+	{
+		disableButton( "searchPrev", true );
+		disableButton( "searchNext", false );
+		disableButton( "5d8c3d07-b380-4f50-aae8-c5098ae5dbca", false );
+	}
+
+	function disableNext()
+	{
+		disableButton( "searchPrev", false );
+		disableButton( "searchNext", true );
+		disableButton( "5d8c3d07-b380-4f50-aae8-c5098ae5dbca", false );
+	}		
+
+	$(document).ready(function () {
+	    $("#"+"5d8c3d07-b380-4f50-aae8-c5098ae5dbca,#searchPrev,#searchNext").click(function () {
+	      blockUIForSearch("jobSearchToken","jobSearchCookie");
+	      document.forms[0].submit();
+	    });
+	  });
+</script>
+
+<table border="0" cellspacing="0" cellpadding="0" align="left">
+<form name="reviewAssignForm" method="post" action="/substituteAvailableJobAction.do">
+	<tr>
+		<td align="left">
+      		<table border="0" cellspacing="0" cellpadding="0" align="left" width="300">
+        		<tr><td height="5" colspan="6"></td></tr>
+       			
+       				
+       					<tr>
+        					<td align="right" nowrap valign="top"><font class="header" >* Search From:</font></td>
+        					<td align="left" nowrap>
+								
+
+
+
+<link rel="stylesheet" type="text/css" href="css/calendar.css"></link>
+<script type="text/javascript" src="js/calendar-min.js"></script>
+<script type="text/javascript" src="js/dateUtil.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	
+	// This function will update the end date box if the start date box is after the end date
+	function updateEndDate(startBoxName, endBoxName) {
+		var Dom = YAHOO.util.Dom;
+		var dFmt = "MM/dd/yyyy";
+		var startBox = Dom.get(startBoxName);
+		var endBox = Dom.get(endBoxName);
+		var endDt = Date.parseString(endBox.value, dFmt);
+		var startDt = Date.parseString(startBox.value, dFmt);
+		if(endDt != null && startDt != null && endDt.isBefore(startDt)) {
+			endBox.value = startBox.value;
+		}
+		else if ( endDt == null && startDt != null ) {
+			endBox.value = startBox.value;
+		}
+	};
+	
+	
+    YAHOO.util.Event.onDOMReady(function(){
+
+        var Event = YAHOO.util.Event,
+            Dom = YAHOO.util.Dom,
+            calendar;
+
+        var dFmt = "MM/dd/yyyy";
+        var showBtn = Dom.get("showstartDate");
+        var startDateDisplayed = 0; // Used to track if this cal is being displayed to toggle state
+        
+        calendar = new YAHOO.widget.Calendar("k","divstartDate", {
+            iframe:false,          // Turn iframe off, since container has iframe support.
+            hide_blank_weeks:true,
+            navigator:true,
+            close:false
+        });
+
+        
+		
+        calendar.render();
+		calendar.hide();
+
+		// Assign an event handler for selecting a date on the calendar
+        calendar.selectEvent.subscribe(function() {
+            if (calendar.getSelectedDates().length > 0) {
+                var selDate = calendar.getSelectedDates()[0];
+                var dFmt = "MM/dd/yyyy";
+                Dom.get("startDate").value =  selDate.format(dFmt);
+                
+                updateEndDate("startDate", "endDate");
+                
+            } else {
+                Dom.get("startDate").value = "";
+            }
+            calendar.hide();
+            startDateDisplayed = 0;
+        });
+
+        // Assign an event handler for clicking on the show calendar button
+        Event.on(showBtn, "click", function() {
+            if( startDateDisplayed == 0 ) {
+	            var txtDate = Dom.get("startDate").value;
+	            if (txtDate != '') {
+					newDate = Date.parseString( txtDate, dFmt);
+					if(newDate != null) calendar.select(newDate);
+					else {
+						// there was a problem parsing the date, reset the calendar and the text box
+						calendar.reset();
+						Dom.get("startDate").value = new Date().format(dFmt);
+					}
+	            }
+	
+				var seldate = calendar.getSelectedDates();
+				if (seldate.length > 0) {
+					// Set the pagedate to show the selected date if it exists
+					calendar.cfg.setProperty("pagedate", seldate[0]);
+					calendar.render();
+	            }
+				calendar.show();
+				startDateDisplayed = 1;
+            } else {
+				calendar.hide();
+				startDateDisplayed = 0;
+            }
+		});
+
+        
+        var dateBox = Dom.get("startDate");
+		Event.on(dateBox, "blur", function() {
+			updateEndDate("startDate", "endDate");
+		});      
+        
+    });
+</script>
+<span class="datePicker" style="z-index:2;">
+	<input type="text" id="startDate" name="startDate" 
+		value="10/08/2015" 
+	/>
+	<button type="button" id="showstartDate" title="Show Calendar" >
+		<img src="IMAGES/show-calendar.gif" width="22px" height="22px" alt="Calendar" >
+	</button>
+	<br/>
+	<font class="dateFormat">(MM/dd/yyyy)</font>
+	<span id="divstartDate" class="calendarBox"></span>
+</span>
+
+
+	  						</td>
+        					<td align="right" nowrap valign="top">&nbsp;&nbsp;<font class="header" >* To:</font></td>
+        					<td align="left" nowrap>
+								
+
+
+
+<link rel="stylesheet" type="text/css" href="css/calendar.css"></link>
+<script type="text/javascript" src="js/calendar-min.js"></script>
+<script type="text/javascript" src="js/dateUtil.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	
+	
+    YAHOO.util.Event.onDOMReady(function(){
+
+        var Event = YAHOO.util.Event,
+            Dom = YAHOO.util.Dom,
+            calendar;
+
+        var dFmt = "MM/dd/yyyy";
+        var showBtn = Dom.get("showendDate");
+        var endDateDisplayed = 0; // Used to track if this cal is being displayed to toggle state
+        
+        calendar = new YAHOO.widget.Calendar("k","divendDate", {
+            iframe:false,          // Turn iframe off, since container has iframe support.
+            hide_blank_weeks:true,
+            navigator:true,
+            close:false
+        });
+
+        
+		
+        calendar.render();
+		calendar.hide();
+
+		// Assign an event handler for selecting a date on the calendar
+        calendar.selectEvent.subscribe(function() {
+            if (calendar.getSelectedDates().length > 0) {
+                var selDate = calendar.getSelectedDates()[0];
+                var dFmt = "MM/dd/yyyy";
+                Dom.get("endDate").value =  selDate.format(dFmt);
+                
+            } else {
+                Dom.get("endDate").value = "";
+            }
+            calendar.hide();
+            endDateDisplayed = 0;
+        });
+
+        // Assign an event handler for clicking on the show calendar button
+        Event.on(showBtn, "click", function() {
+            if( endDateDisplayed == 0 ) {
+	            var txtDate = Dom.get("endDate").value;
+	            if (txtDate != '') {
+					newDate = Date.parseString( txtDate, dFmt);
+					if(newDate != null) calendar.select(newDate);
+					else {
+						// there was a problem parsing the date, reset the calendar and the text box
+						calendar.reset();
+						Dom.get("endDate").value = new Date().format(dFmt);
+					}
+	            }
+	
+				var seldate = calendar.getSelectedDates();
+				if (seldate.length > 0) {
+					// Set the pagedate to show the selected date if it exists
+					calendar.cfg.setProperty("pagedate", seldate[0]);
+					calendar.render();
+	            }
+				calendar.show();
+				endDateDisplayed = 1;
+            } else {
+				calendar.hide();
+				endDateDisplayed = 0;
+            }
+		});
+
+        
+    });
+</script>
+<span class="datePicker" style="z-index:2;">
+	<input type="text" id="endDate" name="endDate" 
+		value="06/30/2016" 
+	/>
+	<button type="button" id="showendDate" title="Show Calendar" >
+		<img src="IMAGES/show-calendar.gif" width="22px" height="22px" alt="Calendar" >
+	</button>
+	<br/>
+	<font class="dateFormat">(MM/dd/yyyy)</font>
+	<span id="divendDate" class="calendarBox"></span>
+</span>
+
+
+	  						</td>
+       					</tr>
+       					<tr>
+       						<td align="left">
+	      						<input type="button" name="5d8c3d07-b380-4f50-aae8-c5098ae5dbca" value="Search" onclick="disableSearch();" id="5d8c3d07-b380-4f50-aae8-c5098ae5dbca" class="submitButton">  							
+       						</td>
+       						<td align="left" colspan="5">
+        						<div id="cooldownMessage" style="display: none;">
+	    							<b><font class="heading" color="red">Next search allowed in&nbsp;<span id="cooldownValue"></span>&nbsp;second(s)</font></b>		    				
+								</div>
+        					</td>
+       					</tr>
+        			 
+        									
+				
+			</table>			
+    	</td>
+    </tr>
+    
+    <tr><td><hr size="1"/></td></tr>
+    
+    
+	
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var searchCheckTimer;
+function blockUIForSearch(hiddenTokenProperty, cookieName) {
+  var token = new Date().getTime();
+  $("#" + hiddenTokenProperty).val(token);
+  $.blockUI({ message: $('#progressMessage') });
+  searchCheckTimer = window.setInterval(function () {
+    var cookieValue = $.cookie(cookieName);
+    if (cookieValue == token)
+  	  finishSearch();
+  }, 1000);
+}
+	  
+function finishSearch() {
+ window.clearInterval(searchCheckTimer);
+ $.cookie(cookieName, null);
+ $.unblockUI();
+}
+</script>
+
+		
+<input type="hidden" name="jobSearchToken" value="" id="jobSearchToken">
+<div id="progressMessage" style="display:none; cursor: default"> 
+      <h1><img src="IMAGES/busy.gif" height="20" width="20"/>&nbsp;Search in progress...<br>  Please be patient...</h1>
+</div>
+
+
+</form>
+</table>
+
+<script language="JavaScript1.2" type="text/javascript">
+
+var cooldown = 0;
+var timer = null;
+
+function init() 
+{
+	if ( cooldown > 0 )
+	{
+		document.getElementById( "5d8c3d07-b380-4f50-aae8-c5098ae5dbca" ).disabled = true;
+		document.getElementById( "cooldownMessage" ).style.display = "block";
+		document.getElementById( "cooldownValue" ).innerHTML = cooldown;
+
+		timer = YAHOO.lang.later ( 1000, this, "timerEvent", 1, true ); 
+	}
+	else
+	{
+		document.getElementById( "5d8c3d07-b380-4f50-aae8-c5098ae5dbca" ).disabled = false;
+		document.getElementById( "cooldownMessage" ).style.display = "none";
+	}	
+}
+
+function timerEvent( unused )
+{
+	cooldown = cooldown - 1;
+
+	if ( cooldown > 0 )
+	{
+		document.getElementById( "cooldownValue" ).innerHTML = cooldown;		
+	}
+	else
+	{		
+		document.getElementById( "5d8c3d07-b380-4f50-aae8-c5098ae5dbca" ).disabled = false;
+		document.getElementById( "cooldownMessage" ).style.display = "none";
+		timer.cancel();
+	}
+}
+
+YAHOO.util.Event.onDOMReady( init );
+
+</script>
+</html></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		
+		<tr valign="bottom" align="left">
+			<td style="height:50px;">
+
+
+
+
+
+<html lang="en-US">
+	 
+		
+	<table class="footer" background="IMAGES/footerBar.gif" border="0" cellspacing="0" cellpadding="0" width="100%" height="50">
+		<tr>
+			<td>&nbsp</td>
+			<td class="baseFooter" align="left" valign="bottom" width="100%" colspan=2>
+				<a onClick="window.open('term.jsp', '', 'height=600, width=750, toolbar=no,status=no, ' 
+					+ 'menubar=no, scrollbars=yes, location=no, directories=no, resizable=yes, '
+					+ 'screenX=0, screenY=0');"	style="cursor: pointer;">
+					<font class="textFooter" >Terms of Use</font>
+				</a>
+				&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+				<a onClick="window.open('privacy.jsp', '', 'height=600, width=750, toolbar=no,status=no, ' 
+					+ 'menubar=no, scrollbars=yes, location=no, directories=no, resizable=yes, '
+					+ 'screenX=0, screenY=0');"	style="cursor: pointer;">
+					<font class="textFooter" >Privacy</font>
+				</a>
+				&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+				<a class="noLineFooter" href="http://www.eschoolsolutions.com" target="_blank">
+					<font class="textFooter" >www.eschoolsolutions.com</font>
+				</a>							
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp</td>
+			<td class="baseFooter" align="left" valign="top" width="100%">				
+				<font class="textFooter" >© 2001-</font>
+				
+				2015
+				<font class="textFooter" >eSchool Solutions, Inc. All rights reserved.</font>
+			</td><td class="baseFooter" align="right" valign="top" width="100%">
+				<font class="textFooter" >SmartFind<i>Express</i></font>&nbsp;2.5.0.10542&nbsp;
+			</td>
+		</tr>
+		
+	</table>						
+	
+	
+			
+	
+	
+</html></td>
+		</tr>
+	</table>
+</body>
+</html>
